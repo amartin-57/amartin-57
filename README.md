@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amartin-57
+- 👋 Hi, I’m @spatel-57
 - 👀 I’m interested in Python, API's
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project
